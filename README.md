@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush Kumar 👋
 
-### **Software Developer | B.Tech ECE Undergrad | Hackathon & Automation Builder**
+### **Software Developer | B.Tech CSE Undergrad | Hackathon & Automation Builder**
 
 I build automated backend tools, responsive web applications, and media-processing bots. Every day, I focus on turning ideas into clean, working software while sharpening my core computer science and problem-solving fundamentals.
 
