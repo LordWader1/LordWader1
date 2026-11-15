@@ -47,7 +47,6 @@ I build automated backend tools, responsive web applications, and media-processi
 ---
 
 ### 🎯 Currently Working On
-S
 - 🔧 **Scaling My Telegram Bot:** Adding custom font styling, dynamic watermark positioning, and faster async queue handling for heavy video streams.
 - 🧠 **Data Structures & Algorithms:** Practicing daily problem-solving in C++ and Python to prepare for coding contests and technical interviews.
 - 🚀 **Hackathon Prep:** Collaborating on rapid prototyping workflows and full-stack integration for upcoming college hackathons.
